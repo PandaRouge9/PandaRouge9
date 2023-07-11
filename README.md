@@ -9,7 +9,8 @@ I'm starting to have solid bases in the Front End part and now currently learnin
 ### My Coding Passion :sunglasses:
 I love to create some little things like a discord bot, or modding my favourite games :eyes:. \
 I created a general bot in my private discord server (repo on github soon), and some
-mods on various games like Curious Expedition, Civ 6 or Minecraft for fun.
+mods on various games \
+like Curious Expedition, Civ 6 or Minecraft for fun.
 
 ## My workbench
 ### I can speak... ✨
